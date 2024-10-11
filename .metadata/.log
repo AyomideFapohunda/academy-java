@@ -1,0 +1,33 @@
+!SESSION 2024-10-10 08:44:24.384 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/ayomidefapohunda/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/ayomidefapohunda/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-10 08:44:31.781
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-10 08:47:34.923
+!MESSAGE Logback config file: /Users/ayomidefapohunda/Documents/ObsidiAcademy/workspace-bptnjava/academy-java/academy-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-10-10 08:48:28.076 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/ayomidefapohunda/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/ayomidefapohunda/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-10 08:48:41.251
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-10 08:49:28.164
+!MESSAGE Logback config file: /Users/ayomidefapohunda/Documents/ObsidiAcademy/workspace-bptnjava/academy-java/academy-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.core.resources 4 77 2024-10-10 08:50:42.718
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2024-10-10 08:50:42.718
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2024-10-10 08:50:42.718
+!MESSAGE /Users/ayomidefapohunda/Documents/ObsidiAcademy/workspace-bptnjava/academy-java overlaps the workspace location: /Users/ayomidefapohunda/Documents/ObsidiAcademy/workspace-bptnjava/academy-java/academy-java
